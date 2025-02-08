@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
+  <diagram name="Página-1" id="bOT3DJtk1cjTEgZoZIW7">
+    <mxGraphModel dx="530" dy="266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nF3NsIon25KFpzOZ8KL--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nF3NsIon25KFpzOZ8KL--1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nF3NsIon25KFpzOZ8KL--1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nF3NsIon25KFpzOZ8KL--4" value="base, altura, área: Real" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358" y="140" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nF3NsIon25KFpzOZ8KL--9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425.26" y="200" as="sourcePoint" />
+            <mxPoint x="425" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nF3NsIon25KFpzOZ8KL--10" value="Imprimir &quot;Ingrese base&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nF3NsIon25KFpzOZ8KL--11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425.26" y="330" as="sourcePoint" />
+            <mxPoint x="425.26" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nF3NsIon25KFpzOZ8KL--16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="nF3NsIon25KFpzOZ8KL--15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nF3NsIon25KFpzOZ8KL--18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nF3NsIon25KFpzOZ8KL--15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nF3NsIon25KFpzOZ8KL--15" value="Imprimir &quot;Ingrese altura&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nF3NsIon25KFpzOZ8KL--20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="nF3NsIon25KFpzOZ8KL--19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="670" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nF3NsIon25KFpzOZ8KL--25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nF3NsIon25KFpzOZ8KL--19" target="nF3NsIon25KFpzOZ8KL--24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nF3NsIon25KFpzOZ8KL--19" value="&quot;área: 1/2xbasexaltura&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nF3NsIon25KFpzOZ8KL--22" value="&quot;Base&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nF3NsIon25KFpzOZ8KL--23" value="&quot;Altura&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nF3NsIon25KFpzOZ8KL--29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nF3NsIon25KFpzOZ8KL--24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nF3NsIon25KFpzOZ8KL--24" value="Imprimir &quot;El área del triangulo es...&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nF3NsIon25KFpzOZ8KL--30" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="1000" width="105.5" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

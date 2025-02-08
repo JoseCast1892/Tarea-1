@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
+  <diagram name="Página-1" id="szFI6LYf6z54CxzwYcT8">
+    <mxGraphModel dx="446" dy="223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="opix6G3ZAJViL-75bnfV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="opix6G3ZAJViL-75bnfV-1" target="opix6G3ZAJViL-75bnfV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="opix6G3ZAJViL-75bnfV-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="373" y="10" width="105" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="opix6G3ZAJViL-75bnfV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="opix6G3ZAJViL-75bnfV-2" target="opix6G3ZAJViL-75bnfV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="opix6G3ZAJViL-75bnfV-2" value="radio&lt;div&gt;volumen&lt;/div&gt;&lt;div&gt;área: Real&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="opix6G3ZAJViL-75bnfV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="opix6G3ZAJViL-75bnfV-8" target="opix6G3ZAJViL-75bnfV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="opix6G3ZAJViL-75bnfV-8" value="Imprimir &quot;Ingresar valor de radio&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="opix6G3ZAJViL-75bnfV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="opix6G3ZAJViL-75bnfV-12" target="opix6G3ZAJViL-75bnfV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="opix6G3ZAJViL-75bnfV-12" value="&lt;div&gt;&quot;Radio&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="opix6G3ZAJViL-75bnfV-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="opix6G3ZAJViL-75bnfV-14" target="opix6G3ZAJViL-75bnfV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="opix6G3ZAJViL-75bnfV-14" value="Volumen de la esfera:&amp;nbsp;volumen = (4/3) * π * radio^3" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="opix6G3ZAJViL-75bnfV-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="opix6G3ZAJViL-75bnfV-16" target="opix6G3ZAJViL-75bnfV-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="opix6G3ZAJViL-75bnfV-16" value="Área de esfera:&amp;nbsp;área = 4 * π * radio^2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="opix6G3ZAJViL-75bnfV-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="opix6G3ZAJViL-75bnfV-18" target="opix6G3ZAJViL-75bnfV-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="opix6G3ZAJViL-75bnfV-18" value="Imprimir &quot;Valor de volumen de esfera es...&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="opix6G3ZAJViL-75bnfV-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="opix6G3ZAJViL-75bnfV-20" target="opix6G3ZAJViL-75bnfV-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="opix6G3ZAJViL-75bnfV-20" value="Imprimir &quot;Valor de área de esfera es...&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="690" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="opix6G3ZAJViL-75bnfV-22" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="368" y="810" width="115" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

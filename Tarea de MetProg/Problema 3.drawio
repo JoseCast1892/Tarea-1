@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
+  <diagram name="Página-1" id="X127KZ6AXwlPav-uMOT3">
+    <mxGraphModel dx="571" dy="286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WKcfu0aEg8NiLKNF_VDQ-1" target="WKcfu0aEg8NiLKNF_VDQ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="75" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WKcfu0aEg8NiLKNF_VDQ-2" target="WKcfu0aEg8NiLKNF_VDQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-2" value="Coeficiente a, b, c:Real" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WKcfu0aEg8NiLKNF_VDQ-8" target="WKcfu0aEg8NiLKNF_VDQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-8" value="Imprimir &quot;Ingrese valor de coeficiente a&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="245" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WKcfu0aEg8NiLKNF_VDQ-12" target="WKcfu0aEg8NiLKNF_VDQ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-12" value="&lt;div&gt;&quot;Coeficiente a&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WKcfu0aEg8NiLKNF_VDQ-14" target="WKcfu0aEg8NiLKNF_VDQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-14" value="Imprimir &quot;Ingrese valor de coeficiente b&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="475" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WKcfu0aEg8NiLKNF_VDQ-16" target="WKcfu0aEg8NiLKNF_VDQ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-16" value="&quot;Coeficiente b&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="605" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WKcfu0aEg8NiLKNF_VDQ-18" target="WKcfu0aEg8NiLKNF_VDQ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-18" value="Imprimir &quot;Ingrese valor de coeficiente c&lt;div&gt;&quot;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="735" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WKcfu0aEg8NiLKNF_VDQ-20" target="WKcfu0aEg8NiLKNF_VDQ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-20" value="&quot;Coeficiente c&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="865" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WKcfu0aEg8NiLKNF_VDQ-22" target="WKcfu0aEg8NiLKNF_VDQ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-22" value="Discriminante: b^2 - 4*a*c&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="WKcfu0aEg8NiLKNF_VDQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="75" as="sourcePoint" />
+            <mxPoint x="220" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-25" value="1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1055" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WKcfu0aEg8NiLKNF_VDQ-27" target="WKcfu0aEg8NiLKNF_VDQ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-27" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WKcfu0aEg8NiLKNF_VDQ-30" target="WKcfu0aEg8NiLKNF_VDQ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-30" value="Imprimir &quot;Valor de coeficiente es...&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="115" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WKcfu0aEg8NiLKNF_VDQ-34" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="260" width="110" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
